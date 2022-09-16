@@ -20,7 +20,7 @@ If it is bad, the business man can analyse the reviews having sentiment with mor
 ## Dataset used:
 - Kaggle Dataset: [https://www.kaggle.com/datasets/kabirnagpal/flipkart-customer-review-and-rating](https://www.kaggle.com/datasets/kabirnagpal/flipkart-customer-review-and-rating)
 
-## Libraries Used:
+## Libraries used:
 - Pandas
 - matplotlib
 - seaborn
