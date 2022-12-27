@@ -1,10 +1,10 @@
 # Project: Sentiment Analysis On Flipkart Reviews
 
 ## Requirement:
-As Customer's reviews affect the sales of the company, so it is most important for the company to categorise the sentiments as positive, negative and neutral.
-It is too difficult to read all the reviews. So with the help of Data science, Business Leaders can visualise the data and find whether customer's reviews are good or bad regarding product.
+As Customer's reviews affect the sales of the company, so it is most important for the company to categorize the sentiments as positive, negative and neutral.
+It is too difficult to read all the reviews. So with the help of Data science, Business Leaders can visualize the data and find whether customer's reviews are good or bad regarding product.
 
-If it is bad, the business man can analyse the reviews having sentiment with more than 10 percent and find what is the reason befind bad reviews.
+If it is bad, the business man can analyse the reviews having sentiment with more than 10 percent and find what is the reason behind bad reviews.
  
 ## Methods used:
 - Data Cleaning
